@@ -1,0 +1,14 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "Knowledge Academy Assignment",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --watch --no-source-map sass/main.scss css/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.65.1"
+  }
+}
