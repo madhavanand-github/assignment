@@ -4,7 +4,7 @@
   "description": "Knowledge Academy Assignment",
   "main": "index.js",
   "scripts": {
-    "compile": "sass --watch --no-source-map sass/main.scss css/style.css"
+    "compile": "sass --watch --no-source-map sass/main.scss assets/css/style.css"
   },
   "author": "",
   "license": "ISC",
